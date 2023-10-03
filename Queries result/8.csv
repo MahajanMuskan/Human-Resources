@@ -1,0 +1,14 @@
+Department,total_count,termination_count,Termination rate,Retention rate
+Marketing,480,43,0.0896,0.9104
+Business Development,1569,147,0.0937,0.9063
+Support,903,92,0.1019,0.8981
+Product Management,623,66,0.1059,0.8941
+Services,1618,173,0.1069,0.8931
+Sales,1745,190,0.1089,0.8911
+Engineering,6387,697,0.1091,0.8909
+Human Resources,1727,190,0.11,0.89
+Accounting,3192,353,0.1106,0.8894
+Research and Development,1032,117,0.1134,0.8866
+Training,1622,189,0.1165,0.8835
+Legal,299,39,0.1304,0.8696
+Auditing,50,8,0.16,0.84

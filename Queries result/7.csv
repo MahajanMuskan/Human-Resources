@@ -1,0 +1,478 @@
+gender,jobtitle,total
+Male,"Account Coordinator",2
+Female,"Account Executive",195
+Male,"Account Executive",183
+Non-Conforming,"Account Executive",8
+Female,"Account Manager",91
+Male,"Account Manager",93
+Non-Conforming,"Account Manager",4
+Female,"Accountant I",25
+Male,"Accountant I",37
+Female,"Accountant II",34
+Male,"Accountant II",29
+Non-Conforming,"Accountant II",2
+Female,"Accountant III",34
+Male,"Accountant III",34
+Non-Conforming,"Accountant III",3
+Female,"Accountant IV",30
+Male,"Accountant IV",38
+Non-Conforming,"Accountant IV",2
+Female,"Accounting Assistant I",34
+Male,"Accounting Assistant I",38
+Non-Conforming,"Accounting Assistant I",2
+Female,"Accounting Assistant II",26
+Male,"Accounting Assistant II",41
+Non-Conforming,"Accounting Assistant II",2
+Female,"Accounting Assistant III",26
+Male,"Accounting Assistant III",31
+Non-Conforming,"Accounting Assistant III",2
+Female,"Accounting Assistant IV",34
+Male,"Accounting Assistant IV",34
+Female,Actuary,9
+Male,Actuary,11
+Female,"Administrative Assistant",14
+Male,"Administrative Assistant",12
+Non-Conforming,"Administrative Assistant",1
+Female,"Administrative Assistant I",67
+Male,"Administrative Assistant I",84
+Non-Conforming,"Administrative Assistant I",3
+Female,"Administrative Assistant II",19
+Male,"Administrative Assistant II",17
+Non-Conforming,"Administrative Assistant II",1
+Female,"Administrative Assistant III",9
+Male,"Administrative Assistant III",5
+Female,"Administrative Assistant IV",2
+Male,"Administrative Assistant IV",4
+Female,"Administrative Officer",23
+Male,"Administrative Officer",21
+Non-Conforming,"Administrative Officer",1
+Female,"Analog Circuit Design manager",18
+Male,"Analog Circuit Design manager",17
+Non-Conforming,"Analog Circuit Design manager",1
+Female,"Analyst Programmer",132
+Male,"Analyst Programmer",150
+Non-Conforming,"Analyst Programmer",8
+Female,"Assistant Manager",19
+Male,"Assistant Manager",19
+Non-Conforming,"Assistant Manager",1
+Male,"Assistant Professor",1
+Female,"Assistant Trainer",67
+Male,"Assistant Trainer",69
+Non-Conforming,"Assistant Trainer",3
+Male,"Associate Professor",1
+Female,Attorney,11
+Male,Attorney,20
+Non-Conforming,Attorney,2
+Female,"Automation Specialist I",8
+Male,"Automation Specialist I",11
+Non-Conforming,"Automation Specialist I",3
+Female,"Automation Specialist II",11
+Male,"Automation Specialist II",14
+Non-Conforming,"Automation Specialist II",1
+Female,"Automation Specialist III",5
+Male,"Automation Specialist III",5
+Non-Conforming,"Automation Specialist III",1
+Female,"Automation Specialist IV",11
+Male,"Automation Specialist IV",4
+Female,"Budget/Accounting Analyst I",64
+Male,"Budget/Accounting Analyst I",54
+Non-Conforming,"Budget/Accounting Analyst I",2
+Female,"Budget/Accounting Analyst II",54
+Male,"Budget/Accounting Analyst II",73
+Non-Conforming,"Budget/Accounting Analyst II",3
+Female,"Budget/Accounting Analyst III",61
+Male,"Budget/Accounting Analyst III",65
+Non-Conforming,"Budget/Accounting Analyst III",4
+Female,"Budget/Accounting Analyst IV",62
+Male,"Budget/Accounting Analyst IV",69
+Non-Conforming,"Budget/Accounting Analyst IV",4
+Female,"Business Analyst",254
+Male,"Business Analyst",276
+Non-Conforming,"Business Analyst",22
+Female,"Business Development Manager",1
+Male,"Business Development Manager",4
+Female,"Business Systems Development Analyst",123
+Male,"Business Systems Development Analyst",139
+Non-Conforming,"Business Systems Development Analyst",10
+Female,"Chief Design Engineer",34
+Male,"Chief Design Engineer",40
+Non-Conforming,"Chief Design Engineer",2
+Female,"Community Outreach Specialist",14
+Male,"Community Outreach Specialist",7
+Female,"Compensation Analyst",13
+Male,"Compensation Analyst",11
+Non-Conforming,"Compensation Analyst",1
+Female,"Computer Systems Analyst I",36
+Male,"Computer Systems Analyst I",33
+Non-Conforming,"Computer Systems Analyst I",2
+Female,"Computer Systems Analyst II",32
+Male,"Computer Systems Analyst II",43
+Female,"Computer Systems Analyst III",25
+Male,"Computer Systems Analyst III",29
+Non-Conforming,"Computer Systems Analyst III",1
+Female,"Computer Systems Analyst IV",24
+Male,"Computer Systems Analyst IV",29
+Female,"Content Developer",15
+Male,"Content Developer",27
+Female,"Content Developer II",14
+Male,"Content Developer II",24
+Non-Conforming,"Content Developer II",5
+Female,"Content Developer III",19
+Male,"Content Developer III",21
+Non-Conforming,"Content Developer III",2
+Female,"Cost Accountant",106
+Male,"Cost Accountant",124
+Non-Conforming,"Cost Accountant",10
+Female,"Customer Success Manager",58
+Male,"Customer Success Manager",88
+Non-Conforming,"Customer Success Manager",5
+Female,"Data Coordiator",130
+Male,"Data Coordiator",142
+Non-Conforming,"Data Coordiator",12
+Female,"Data Visualization Specialist",152
+Male,"Data Visualization Specialist",183
+Non-Conforming,"Data Visualization Specialist",11
+Female,"Database Administrator I",29
+Male,"Database Administrator I",33
+Non-Conforming,"Database Administrator I",2
+Female,"Database Administrator II",31
+Male,"Database Administrator II",36
+Non-Conforming,"Database Administrator II",1
+Female,"Database Administrator III",37
+Male,"Database Administrator III",28
+Non-Conforming,"Database Administrator III",2
+Female,"Database Administrator IV",33
+Male,"Database Administrator IV",34
+Non-Conforming,"Database Administrator IV",2
+Female,"Design Engineer",21
+Male,"Design Engineer",20
+Female,"Desktop Support Technician",99
+Male,"Desktop Support Technician",130
+Non-Conforming,"Desktop Support Technician",13
+Female,"Developer I",41
+Male,"Developer I",24
+Non-Conforming,"Developer I",4
+Female,"Developer II",25
+Male,"Developer II",23
+Non-Conforming,"Developer II",5
+Female,"Developer III",26
+Male,"Developer III",35
+Non-Conforming,"Developer III",1
+Female,"Developer IV",30
+Male,"Developer IV",29
+Female,"Director of Sales",4
+Male,"Director of Sales",3
+Non-Conforming,"Director of Sales",1
+Female,Editor,38
+Male,Editor,31
+Female,"Electrical Engineer",11
+Male,"Electrical Engineer",10
+Non-Conforming,"Electrical Engineer",1
+Female,"Engineer I",4
+Male,"Engineer I",3
+Female,"Engineer II",1
+Male,"Engineer II",3
+Female,"Engineer III",2
+Male,"Engineer III",3
+Male,"Engineer IV",1
+Female,"Executive Assistant",13
+Male,"Executive Assistant",17
+Non-Conforming,"Executive Assistant",1
+Female,"Financial Advisor",13
+Male,"Financial Advisor",11
+Non-Conforming,"Financial Advisor",2
+Female,"Financial Analyst",25
+Male,"Financial Analyst",21
+Non-Conforming,"Financial Analyst",2
+Female,"General Manager",11
+Male,"General Manager",9
+Non-Conforming,"General Manager",1
+Female,"Graphic Designer",7
+Male,"Graphic Designer",2
+Female,"Help Desk Operator",36
+Male,"Help Desk Operator",32
+Non-Conforming,"Help Desk Operator",2
+Female,"Help Desk Technician",134
+Male,"Help Desk Technician",126
+Non-Conforming,"Help Desk Technician",6
+Female,"HR Manager",72
+Male,"HR Manager",89
+Non-Conforming,"HR Manager",1
+Female,"Human Resources Analyst",139
+Male,"Human Resources Analyst",176
+Non-Conforming,"Human Resources Analyst",9
+Female,"Human Resources Analyst II",239
+Male,"Human Resources Analyst II",227
+Non-Conforming,"Human Resources Analyst II",11
+Female,"Human Resources Assistant I",3
+Male,"Human Resources Assistant I",7
+Female,"Human Resources Assistant II",5
+Male,"Human Resources Assistant II",5
+Female,"Human Resources Assistant III",7
+Male,"Human Resources Assistant III",5
+Non-Conforming,"Human Resources Assistant III",1
+Female,"Human Resources Assistant IV",4
+Male,"Human Resources Assistant IV",4
+Non-Conforming,"Human Resources Assistant IV",1
+Female,"Human Resources Manager",28
+Male,"Human Resources Manager",24
+Non-Conforming,"Human Resources Manager",1
+Female,"Information Systems Manager",15
+Male,"Information Systems Manager",15
+Non-Conforming,"Information Systems Manager",1
+Female,"Internal Auditor",19
+Male,"Internal Auditor",19
+Female,"Junior Trainer",65
+Male,"Junior Trainer",65
+Non-Conforming,"Junior Trainer",5
+Female,"Legal Assistant",11
+Male,"Legal Assistant",5
+Female,Librarian,7
+Male,Librarian,13
+Female,"Marketing Assistant",4
+Male,"Marketing Assistant",4
+Female,"Marketing Manager",1
+Female,"Mechanical Systems Engineer",13
+Male,"Mechanical Systems Engineer",7
+Non-Conforming,"Mechanical Systems Engineer",1
+Female,"Media Manager I",50
+Male,"Media Manager I",56
+Non-Conforming,"Media Manager I",2
+Female,"Media Manager II",20
+Male,"Media Manager II",19
+Non-Conforming,"Media Manager II",2
+Female,"Office Assistant I",4
+Male,"Office Assistant I",2
+Male,"Office Assistant IV",1
+Female,Operator,89
+Male,Operator,73
+Non-Conforming,Operator,8
+Female,Paralegal,28
+Male,Paralegal,19
+Non-Conforming,Paralegal,1
+Female,"Payment Adjustment Coordinator",5
+Male,"Payment Adjustment Coordinator",11
+Female,"Pre-Sales Consultant",74
+Male,"Pre-Sales Consultant",90
+Non-Conforming,"Pre-Sales Consultant",5
+Female,"Product Engineer",23
+Male,"Product Engineer",23
+Female,"Programmer Analyst I",39
+Male,"Programmer Analyst I",32
+Non-Conforming,"Programmer Analyst I",3
+Female,"Programmer Analyst II",36
+Male,"Programmer Analyst II",40
+Non-Conforming,"Programmer Analyst II",1
+Female,"Programmer Analyst III",27
+Male,"Programmer Analyst III",39
+Female,"Programmer Analyst IV",27
+Male,"Programmer Analyst IV",34
+Non-Conforming,"Programmer Analyst IV",3
+Female,"Programmer I",34
+Male,"Programmer I",30
+Non-Conforming,"Programmer I",6
+Female,"Programmer II",32
+Male,"Programmer II",36
+Non-Conforming,"Programmer II",1
+Female,"Programmer III",34
+Male,"Programmer III",31
+Female,"Programmer IV",19
+Male,"Programmer IV",31
+Female,"Project Manager",109
+Male,"Project Manager",148
+Non-Conforming,"Project Manager",12
+Female,"Quality Control Specialist",58
+Male,"Quality Control Specialist",43
+Non-Conforming,"Quality Control Specialist",3
+Female,"Quality Engineer",20
+Male,"Quality Engineer",32
+Female,Recruiter,86
+Male,Recruiter,93
+Non-Conforming,Recruiter,5
+Female,"Recruiting Manager",9
+Male,"Recruiting Manager",8
+Non-Conforming,"Recruiting Manager",2
+Female,"Relationshiop Manager",71
+Male,"Relationshiop Manager",88
+Non-Conforming,"Relationshiop Manager",5
+Female,"Research Assistant",10
+Male,"Research Assistant",20
+Female,"Research Assistant I",193
+Male,"Research Assistant I",207
+Non-Conforming,"Research Assistant I",8
+Female,"Research Assistant II",286
+Male,"Research Assistant II",304
+Non-Conforming,"Research Assistant II",18
+Female,"Research Assistant III",7
+Male,"Research Assistant III",8
+Female,"Research Assistant IV",2
+Male,"Research Assistant IV",3
+Non-Conforming,"Research Assistant IV",1
+Female,"Research Associate",81
+Male,"Research Associate",80
+Non-Conforming,"Research Associate",3
+Female,"Sales Associate",2
+Male,"Sales Associate",2
+Female,"Sales Representative",1
+Male,"Sales Representative",2
+Female,"Senior Attorney",13
+Male,"Senior Attorney",19
+Female,"Senior Cost Accountant",111
+Male,"Senior Cost Accountant",129
+Non-Conforming,"Senior Cost Accountant",8
+Female,"Senior Developer",143
+Male,"Senior Developer",134
+Non-Conforming,"Senior Developer",4
+Female,"Senior Editor",61
+Male,"Senior Editor",58
+Non-Conforming,"Senior Editor",1
+Female,"Senior Financial Analyst",23
+Male,"Senior Financial Analyst",24
+Female,"Senior Quality Engineer",58
+Male,"Senior Quality Engineer",54
+Non-Conforming,"Senior Quality Engineer",2
+Female,"Senior Recruiter",77
+Male,"Senior Recruiter",81
+Non-Conforming,"Senior Recruiter",7
+Female,"Senior Sales Associate",5
+Male,"Senior Sales Associate",7
+Female,"Senior Trainer",65
+Male,"Senior Trainer",78
+Non-Conforming,"Senior Trainer",4
+Female,"Service Coordinator",132
+Male,"Service Coordinator",126
+Non-Conforming,"Service Coordinator",1
+Female,"Service Manager",132
+Male,"Service Manager",129
+Non-Conforming,"Service Manager",6
+Female,"Service Tech",119
+Male,"Service Tech",125
+Non-Conforming,"Service Tech",10
+Female,"Service Tech II",123
+Male,"Service Tech II",135
+Non-Conforming,"Service Tech II",7
+Female,"Service Tech III",126
+Male,"Service Tech III",137
+Non-Conforming,"Service Tech III",5
+Female,"Software Consultant",116
+Male,"Software Consultant",138
+Non-Conforming,"Software Consultant",8
+Female,"Software Engineer I",148
+Male,"Software Engineer I",152
+Non-Conforming,"Software Engineer I",8
+Female,"Software Engineer II",28
+Male,"Software Engineer II",40
+Non-Conforming,"Software Engineer II",2
+Female,"Software Engineer III",38
+Male,"Software Engineer III",43
+Non-Conforming,"Software Engineer III",1
+Female,"Software Engineer IV",35
+Male,"Software Engineer IV",34
+Non-Conforming,"Software Engineer IV",1
+Female,"Software Test Engineer I",30
+Male,"Software Test Engineer I",33
+Non-Conforming,"Software Test Engineer I",2
+Female,"Software Test Engineer II",25
+Male,"Software Test Engineer II",25
+Non-Conforming,"Software Test Engineer II",3
+Female,"Software Test Engineer III",35
+Male,"Software Test Engineer III",29
+Non-Conforming,"Software Test Engineer III",1
+Female,"Software Test Engineer IV",32
+Male,"Software Test Engineer IV",42
+Female,"Solutions Engineer",71
+Male,"Solutions Engineer",92
+Non-Conforming,"Solutions Engineer",7
+Female,"Solutions Engineer Manager",72
+Male,"Solutions Engineer Manager",89
+Non-Conforming,"Solutions Engineer Manager",3
+Female,"Staff Accountant I",153
+Male,"Staff Accountant I",204
+Non-Conforming,"Staff Accountant I",7
+Female,"Staff Accountant II",29
+Male,"Staff Accountant II",33
+Non-Conforming,"Staff Accountant II",3
+Female,"Staff Accountant III",31
+Male,"Staff Accountant III",38
+Non-Conforming,"Staff Accountant III",8
+Female,"Staff Accountant IV",44
+Male,"Staff Accountant IV",36
+Non-Conforming,"Staff Accountant IV",3
+Female,"Staff Scientist",12
+Male,"Staff Scientist",12
+Non-Conforming,"Staff Scientist",2
+Female,"Statistician I",5
+Male,"Statistician I",5
+Female,"Statistician II",7
+Male,"Statistician II",3
+Female,"Statistician III",2
+Female,"Structural Analysis Engineer",16
+Male,"Structural Analysis Engineer",20
+Female,"Structural Engineer",115
+Male,"Structural Engineer",126
+Non-Conforming,"Structural Engineer",8
+Female,"Support Staff",30
+Male,"Support Staff",41
+Non-Conforming,"Support Staff",4
+Female,"Support Staff II",18
+Male,"Support Staff II",26
+Non-Conforming,"Support Staff II",1
+Female,"Support Staff III",6
+Male,"Support Staff III",10
+Female,"Systems Administrator I",126
+Male,"Systems Administrator I",169
+Non-Conforming,"Systems Administrator I",7
+Female,"Systems Administrator II",25
+Male,"Systems Administrator II",27
+Non-Conforming,"Systems Administrator II",2
+Female,"Systems Administrator III",29
+Male,"Systems Administrator III",42
+Non-Conforming,"Systems Administrator III",1
+Female,"Systems Administrator IV",17
+Male,"Systems Administrator IV",43
+Non-Conforming,"Systems Administrator IV",3
+Female,"Tax Accountant",90
+Male,"Tax Accountant",135
+Non-Conforming,"Tax Accountant",5
+Female,"Trainer I",78
+Male,"Trainer I",64
+Non-Conforming,"Trainer I",10
+Female,"Trainer II",70
+Male,"Trainer II",78
+Non-Conforming,"Trainer II",1
+Female,"Trainer III",60
+Male,"Trainer III",78
+Non-Conforming,"Trainer III",1
+Female,"Training Manager",71
+Male,"Training Manager",75
+Non-Conforming,"Training Manager",3
+Female,"VP Accounting",30
+Male,"VP Accounting",35
+Female,"VP Marketing",14
+Male,"VP Marketing",24
+Male,"VP of Training and Development",1
+Female,"VP Product Management",15
+Male,"VP Product Management",15
+Non-Conforming,"VP Product Management",1
+Female,"VP Quality Control",18
+Male,"VP Quality Control",16
+Female,"VP Sales",4
+Non-Conforming,"VP Sales",1
+Female,"Web Designer I",9
+Male,"Web Designer I",18
+Male,"Web Designer II",2
+Non-Conforming,"Web Designer II",1
+Female,"Web Designer III",5
+Male,"Web Designer III",5
+Female,"Web Designer IV",2
+Male,"Web Designer IV",3
+Female,"Web Developer I",37
+Male,"Web Developer I",40
+Non-Conforming,"Web Developer I",2
+Female,"Web Developer II",31
+Male,"Web Developer II",32
+Non-Conforming,"Web Developer II",3
+Female,"Web Developer III",22
+Male,"Web Developer III",31
+Female,"Web Developer IV",27
+Male,"Web Developer IV",31
